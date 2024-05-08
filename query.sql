@@ -1,3 +1,3 @@
 SELECT * FROM ABC_TABLE
 
-select Top 10 * from abcd_table
+select Top 10 * from abcd_table where abc="pawan"
